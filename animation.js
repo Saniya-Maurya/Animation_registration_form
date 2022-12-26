@@ -1,0 +1,4 @@
+function motions(){
+    alert("hello");
+    
+}
